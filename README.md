@@ -19,3 +19,7 @@
 ![Github](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+
+
+
+![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
